@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/bayway/janusmcp/releases/download/v0.1.0/janusmcp_windows_amd64.zip",
+            "bin": [
+                "janusmcp.exe"
+            ],
+            "hash": "de39adfba8de5b776024c7ba7148116f12bbd363ce4562f8c6968c034346aa34"
+        },
+        "arm64": {
+            "url": "https://github.com/bayway/janusmcp/releases/download/v0.1.0/janusmcp_windows_arm64.zip",
+            "bin": [
+                "janusmcp.exe"
+            ],
+            "hash": "7c4652c0cf710df83daef2d2dbb056b6cf3ce3018869a62af4f005ea41012bf2"
+        }
+    },
+    "homepage": "https://github.com/bayway/janusmcp",
+    "license": "MIT",
+    "description": "Local multi-account MCP broker."
+}
