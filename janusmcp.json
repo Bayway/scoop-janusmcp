@@ -6,14 +6,14 @@
             "bin": [
                 "janusmcp.exe"
             ],
-            "hash": "de39adfba8de5b776024c7ba7148116f12bbd363ce4562f8c6968c034346aa34"
+            "hash": "7e8667a48d9a5f77d4acd52b8ac7ea39b63b59d54c59547d4ccf0c9c5827d258"
         },
         "arm64": {
             "url": "https://github.com/bayway/janusmcp/releases/download/v0.1.0/janusmcp_windows_arm64.zip",
             "bin": [
                 "janusmcp.exe"
             ],
-            "hash": "7c4652c0cf710df83daef2d2dbb056b6cf3ce3018869a62af4f005ea41012bf2"
+            "hash": "edb73a57a4acb2e30de07001001bc9607eac169914271b6c88ebaf643b63c632"
         }
     },
     "homepage": "https://github.com/bayway/janusmcp",
