@@ -1,22 +1,22 @@
 {
-    "version": "0.3.0",
+    "version": "0.4.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bayway/janusmcp/releases/download/v0.3.0/janusmcp_windows_amd64.zip",
+            "url": "https://github.com/bayway/janusmcp/releases/download/v0.4.0/janusmcp_windows_amd64.zip",
             "bin": [
                 "janusmcp.exe"
             ],
-            "hash": "bc2c1fe79fa48a9ac8a432bc92946fa8f1a9e4d72c8ab6ded57037552356978a"
+            "hash": "bdf29aa8081e654d9bd6184411acce1cdbbb81aef971b3d1192daa9e4353f068"
         },
         "arm64": {
-            "url": "https://github.com/bayway/janusmcp/releases/download/v0.3.0/janusmcp_windows_arm64.zip",
+            "url": "https://github.com/bayway/janusmcp/releases/download/v0.4.0/janusmcp_windows_arm64.zip",
             "bin": [
                 "janusmcp.exe"
             ],
-            "hash": "1c2355381d861f48200ecfce84d7fa00d88de72574f6769a902646272fc8a955"
+            "hash": "a22ebfc91fb39d136882556a1128581647b311accaf9bc14a7bc4db678ec2e9f"
         }
     },
     "homepage": "https://github.com/bayway/janusmcp",
     "license": "MIT",
-    "description": "Local multi-account MCP broker."
+    "description": "Multi-account tool broker for AI agents — CLI and MCP."
 }
