@@ -1,19 +1,19 @@
 {
-    "version": "0.4.0",
+    "version": "0.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bayway/janusmcp/releases/download/v0.4.0/janusmcp_windows_amd64.zip",
+            "url": "https://github.com/bayway/janusmcp/releases/download/v0.5.0/janusmcp_windows_amd64.zip",
             "bin": [
                 "janusmcp.exe"
             ],
-            "hash": "bdf29aa8081e654d9bd6184411acce1cdbbb81aef971b3d1192daa9e4353f068"
+            "hash": "1d9aa4e21335c9a2acd4dd0edd68ef2eea568ca879494a8303c1c5a68ee4403b"
         },
         "arm64": {
-            "url": "https://github.com/bayway/janusmcp/releases/download/v0.4.0/janusmcp_windows_arm64.zip",
+            "url": "https://github.com/bayway/janusmcp/releases/download/v0.5.0/janusmcp_windows_arm64.zip",
             "bin": [
                 "janusmcp.exe"
             ],
-            "hash": "a22ebfc91fb39d136882556a1128581647b311accaf9bc14a7bc4db678ec2e9f"
+            "hash": "0237efb17484cad302ff9e3a9aefebe2fe78c81220194b7729c97b523299b807"
         }
     },
     "homepage": "https://github.com/bayway/janusmcp",
